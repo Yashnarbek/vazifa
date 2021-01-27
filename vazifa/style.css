@@ -1,0 +1,99 @@
+body{
+    background-color: rgb(95, 146, 240);
+
+}
+.container{
+    margin-top: 80px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    background-color: #fff;
+}
+.header{
+    width: 500px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    background-color: rgb(80, 80, 230);
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+button{
+    border: none;
+    outline: none;
+    font-size: 25px;
+    font-weight: bolder;
+    background-color: rgb(80, 80, 230);
+    color: white;
+    margin-left: auto;
+    margin-right: 15px;
+}
+.middle-part{
+    width: 500px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+hr{
+    margin-top: 40px;
+}
+h2{
+    margin-top: -25px;
+    width: 100px;
+    background-color: white;
+    color: rgb(163, 161, 156);
+    margin-left: 200px;
+}
+.rght{
+    width: 300px;
+    padding-left: 3px;
+    padding-right: 5px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgb(221, 218, 213);
+    vertical-align: middle;
+    border-radius: 10px;
+}
+.lft{
+    width: 300px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgb(221, 218, 213);
+    vertical-align: middle;
+    border-radius: 10px;
+    margin-left: auto;
+}
+.time{
+    text-align: end;
+}
+.enter{
+    width: 250px;
+   padding: 10px;
+   margin-right: auto;
+}
+.send{
+    color: rgb(80, 80, 230);
+    background-color: white;
+}
+.bottom-part{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 60px;
+    box-shadow: 0 -1px  2px #555;
+}
+.enter{
+    border: none;
+    outline: none;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+p{
+    margin: 20px;
+}
+h3{
+    margin: 20px;
+    color: rgb(221, 218, 213);
+}
